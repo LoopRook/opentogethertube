@@ -1,0 +1,9 @@
+hostname="localhost:8080"
+
+log = { level="info" }
+
+api_key="AIzaSyDTk1OPRI9cDkAK_BKsBcv10DQCHse-QaA"
+session_secret="f3c7d8ab1a0d4f0a8c3f9e0b9f0f9a1b"
+
+[info_extractor.youtube]
+api_key="AIzaSyDTk1OPRI9cDkAK_BKsBcv10DQCHse-QaA" # get your own key from https://console.developers.google.com/apis/credentials
