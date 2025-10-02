@@ -1,4 +1,4 @@
-hostname="localhost:8080"
+hostname="opentogethertube-production.up.railway.app"
 
 log = { level="info" }
 
